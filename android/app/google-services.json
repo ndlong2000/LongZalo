@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435769662611",
+    "project_id": "zaloflutter",
+    "storage_bucket": "zaloflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435769662611:android:c5906e4159eee0068c0166",
+        "android_client_info": {
+          "package_name": "com.example.zalo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435769662611-k5h6hfq78mlq9lc9i74m0ga12en349mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7jHlxgscaS_Eh2B9ek9nlDiskakFIRuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435769662611-k5h6hfq78mlq9lc9i74m0ga12en349mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
